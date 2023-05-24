@@ -1,4 +1,4 @@
-﻿# Proyecto de Análisis de Datos de Accidentes Aéreos
+﻿# Proyecto de Análisis de Datos de Accidentes Aéreos: Oriana Madriz
 
 ## Introducción
 En este proyecto de Data Analytics, asumiremos el rol de un Data Analyst en la Organización de Aviación Civil Internacional (OACI). La OACI ha iniciado un proyecto para analizar los accidentes aéreos de aviones en todo el mundo, con el objetivo de mejorar la seguridad en la aviación civil. Nuestra tarea es recopilar, analizar y visualizar datos relevantes sobre accidentes aéreos, identificar patrones y tendencias, y presentar los hallazgos a través de un dashboard interactivo.
